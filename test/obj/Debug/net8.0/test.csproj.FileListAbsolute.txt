@@ -1,0 +1,14 @@
+/Users/vladimir/Desktop/test/bin/Debug/net8.0/test
+/Users/vladimir/Desktop/test/bin/Debug/net8.0/test.deps.json
+/Users/vladimir/Desktop/test/bin/Debug/net8.0/test.runtimeconfig.json
+/Users/vladimir/Desktop/test/bin/Debug/net8.0/test.dll
+/Users/vladimir/Desktop/test/bin/Debug/net8.0/test.pdb
+/Users/vladimir/Desktop/test/obj/Debug/net8.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimir/Desktop/test/obj/Debug/net8.0/test.AssemblyInfoInputs.cache
+/Users/vladimir/Desktop/test/obj/Debug/net8.0/test.AssemblyInfo.cs
+/Users/vladimir/Desktop/test/obj/Debug/net8.0/test.csproj.CoreCompileInputs.cache
+/Users/vladimir/Desktop/test/obj/Debug/net8.0/test.dll
+/Users/vladimir/Desktop/test/obj/Debug/net8.0/refint/test.dll
+/Users/vladimir/Desktop/test/obj/Debug/net8.0/test.pdb
+/Users/vladimir/Desktop/test/obj/Debug/net8.0/test.genruntimeconfig.cache
+/Users/vladimir/Desktop/test/obj/Debug/net8.0/ref/test.dll
