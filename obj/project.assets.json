@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladimir/Desktop/test/test.csproj",
-      "projectName": "test",
-      "projectPath": "/Users/vladimir/Desktop/test/test.csproj",
+      "projectUniqueName": "/Users/vladimir/Desktop/git/husband/husband.csproj",
+      "projectName": "husband",
+      "projectPath": "/Users/vladimir/Desktop/git/husband/husband.csproj",
       "packagesPath": "/Users/vladimir/.nuget/packages/",
-      "outputPath": "/Users/vladimir/Desktop/test/obj/",
+      "outputPath": "/Users/vladimir/Desktop/git/husband/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/vladimir/.nuget/NuGet/NuGet.Config"
