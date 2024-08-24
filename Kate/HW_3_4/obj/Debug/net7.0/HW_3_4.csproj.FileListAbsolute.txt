@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/bin/Debug/net7.0/HW_3_4
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/bin/Debug/net7.0/HW_3_4.deps.json
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/bin/Debug/net7.0/HW_3_4.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/bin/Debug/net7.0/HW_3_4.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/bin/Debug/net7.0/HW_3_4.pdb
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/obj/Debug/net7.0/HW_3_4.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/obj/Debug/net7.0/HW_3_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/obj/Debug/net7.0/HW_3_4.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/obj/Debug/net7.0/HW_3_4.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/obj/Debug/net7.0/HW_3_4.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/obj/Debug/net7.0/HW_3_4.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/obj/Debug/net7.0/refint/HW_3_4.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/obj/Debug/net7.0/HW_3_4.pdb
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/obj/Debug/net7.0/HW_3_4.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/HW_3_4/obj/Debug/net7.0/ref/HW_3_4.dll
