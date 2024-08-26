@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/bin/Debug/net7.0/Arrays
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/bin/Debug/net7.0/Arrays.deps.json
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/bin/Debug/net7.0/Arrays.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/bin/Debug/net7.0/Arrays.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/bin/Debug/net7.0/Arrays.pdb
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/obj/Debug/net7.0/Arrays.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/obj/Debug/net7.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/obj/Debug/net7.0/Arrays.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/obj/Debug/net7.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/obj/Debug/net7.0/Arrays.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/obj/Debug/net7.0/refint/Arrays.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/obj/Debug/net7.0/Arrays.pdb
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/obj/Debug/net7.0/Arrays.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/Arrays/obj/Debug/net7.0/ref/Arrays.dll
