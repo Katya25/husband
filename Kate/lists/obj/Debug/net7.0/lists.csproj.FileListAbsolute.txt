@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/bin/Debug/net7.0/lists
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/bin/Debug/net7.0/lists.deps.json
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/bin/Debug/net7.0/lists.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/bin/Debug/net7.0/lists.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/bin/Debug/net7.0/lists.pdb
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/obj/Debug/net7.0/lists.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/obj/Debug/net7.0/lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/obj/Debug/net7.0/lists.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/obj/Debug/net7.0/lists.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/obj/Debug/net7.0/lists.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/obj/Debug/net7.0/lists.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/obj/Debug/net7.0/refint/lists.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/obj/Debug/net7.0/lists.pdb
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/obj/Debug/net7.0/lists.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/lists/obj/Debug/net7.0/ref/lists.dll

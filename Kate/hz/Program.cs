@@ -87,10 +87,7 @@ class Program
         }
         else{
             System.Console.WriteLine("You are loh");
-        }
-
-        
-        
+        }  
     }
 
     static void PrintArray(int[] arr)
