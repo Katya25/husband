@@ -4,7 +4,8 @@ class Program
 {
     static void Main()
     {
-        //                                0      1         2       3         4           5          6
+        //    
+        /*                            0      1         2       3         4           5          6
         string[] names = new string[] {"Vova", "Katya", "Fedor", "Sasha", "Natasha", "Veronika", "Nastya"};
         
         names[6] = "Dasha";
@@ -53,6 +54,40 @@ class Program
         
 
         SayHelloTo(names);
+        */
+        IList<IList<int>> triangle = new List<IList<int>>();
+        triangle.Add(new List<int> {2});
+        triangle.Add(new List<int> { 3, 4 });
+        triangle.Add(new List<int> { 6, 5, 7 });
+        triangle.Add(new List<int> { 4, 1, 8, 3 });
+
+        int min = MinimumTotal(triangle);
+    } 
+
+    public static int MinimumTotal(IList<IList<int>> triangle) {
+        if(triangle.Count < 2) return triangle[0][0];
+
+        for(int i = 1; i < triangle.Count; i++)
+        {
+            for(int j = 0; j <= i; j++)
+            {
+                if(j == 0) 
+                {
+                    triangle[i][j] += triangle[i-1][j];
+                }
+                else
+                {
+                    if(i == j) triangle[i][j] += triangle[i-1][j-1];
+                    else{
+                        int left = triangle[i-1][j-1];
+                        int up = triangle[i-1][j];
+                        triangle[i][j] += Math.Min(left, up);
+                    }
+                }
+            }
+        }
+        int min = triangle[triangle.Count - 1].Min();
+        return min;
     }
 
     public static void TryToChangeInt(int i)   

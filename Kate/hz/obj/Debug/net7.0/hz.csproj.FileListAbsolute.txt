@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/bin/Debug/net7.0/hz
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/bin/Debug/net7.0/hz.deps.json
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/bin/Debug/net7.0/hz.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/bin/Debug/net7.0/hz.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/bin/Debug/net7.0/hz.pdb
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/obj/Debug/net7.0/hz.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/obj/Debug/net7.0/hz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/obj/Debug/net7.0/hz.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/obj/Debug/net7.0/hz.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/obj/Debug/net7.0/hz.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/obj/Debug/net7.0/hz.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/obj/Debug/net7.0/refint/hz.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/obj/Debug/net7.0/hz.pdb
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/obj/Debug/net7.0/hz.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/hz/obj/Debug/net7.0/ref/hz.dll
