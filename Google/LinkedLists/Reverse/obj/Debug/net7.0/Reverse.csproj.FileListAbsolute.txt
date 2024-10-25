@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/bin/Debug/net7.0/Reverse
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/bin/Debug/net7.0/Reverse.deps.json
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/bin/Debug/net7.0/Reverse.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/bin/Debug/net7.0/Reverse.dll
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/bin/Debug/net7.0/Reverse.pdb
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/obj/Debug/net7.0/Reverse.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/obj/Debug/net7.0/Reverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/obj/Debug/net7.0/Reverse.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/obj/Debug/net7.0/Reverse.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/obj/Debug/net7.0/Reverse.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/obj/Debug/net7.0/Reverse.dll
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/obj/Debug/net7.0/refint/Reverse.dll
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/obj/Debug/net7.0/Reverse.pdb
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/obj/Debug/net7.0/Reverse.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Google/LinkedLists/Reverse/obj/Debug/net7.0/ref/Reverse.dll

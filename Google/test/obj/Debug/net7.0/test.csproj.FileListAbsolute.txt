@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Google/test/bin/Debug/net7.0/test
+/Users/katyab/Documents/Programming Git/husband/Google/test/bin/Debug/net7.0/test.deps.json
+/Users/katyab/Documents/Programming Git/husband/Google/test/bin/Debug/net7.0/test.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Google/test/bin/Debug/net7.0/test.dll
+/Users/katyab/Documents/Programming Git/husband/Google/test/bin/Debug/net7.0/test.pdb
+/Users/katyab/Documents/Programming Git/husband/Google/test/obj/Debug/net7.0/test.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Google/test/obj/Debug/net7.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Google/test/obj/Debug/net7.0/test.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Google/test/obj/Debug/net7.0/test.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Google/test/obj/Debug/net7.0/test.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Google/test/obj/Debug/net7.0/test.dll
+/Users/katyab/Documents/Programming Git/husband/Google/test/obj/Debug/net7.0/refint/test.dll
+/Users/katyab/Documents/Programming Git/husband/Google/test/obj/Debug/net7.0/test.pdb
+/Users/katyab/Documents/Programming Git/husband/Google/test/obj/Debug/net7.0/test.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Google/test/obj/Debug/net7.0/ref/test.dll

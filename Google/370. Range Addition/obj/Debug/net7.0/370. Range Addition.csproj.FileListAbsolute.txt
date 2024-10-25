@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/bin/Debug/net7.0/370. Range Addition
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/bin/Debug/net7.0/370. Range Addition.deps.json
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/bin/Debug/net7.0/370. Range Addition.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/bin/Debug/net7.0/370. Range Addition.dll
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/bin/Debug/net7.0/370. Range Addition.pdb
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/obj/Debug/net7.0/370. Range Addition.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/obj/Debug/net7.0/370. Range Addition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/obj/Debug/net7.0/370. Range Addition.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/obj/Debug/net7.0/370. Range Addition.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/obj/Debug/net7.0/370. Range Addition.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/obj/Debug/net7.0/370. Range Addition.dll
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/obj/Debug/net7.0/refint/370. Range Addition.dll
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/obj/Debug/net7.0/370. Range Addition.pdb
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/obj/Debug/net7.0/370. Range Addition.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Google/370. Range Addition/obj/Debug/net7.0/ref/370. Range Addition.dll

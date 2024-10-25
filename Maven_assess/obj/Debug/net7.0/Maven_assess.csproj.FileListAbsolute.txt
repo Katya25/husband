@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/bin/Debug/net7.0/Maven_assess
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/bin/Debug/net7.0/Maven_assess.deps.json
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/bin/Debug/net7.0/Maven_assess.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/bin/Debug/net7.0/Maven_assess.dll
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/bin/Debug/net7.0/Maven_assess.pdb
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/obj/Debug/net7.0/Maven_assess.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/obj/Debug/net7.0/Maven_assess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/obj/Debug/net7.0/Maven_assess.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/obj/Debug/net7.0/Maven_assess.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/obj/Debug/net7.0/Maven_assess.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/obj/Debug/net7.0/Maven_assess.dll
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/obj/Debug/net7.0/refint/Maven_assess.dll
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/obj/Debug/net7.0/Maven_assess.pdb
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/obj/Debug/net7.0/Maven_assess.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Maven_assess/obj/Debug/net7.0/ref/Maven_assess.dll
