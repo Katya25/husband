@@ -49,6 +49,34 @@ class Program
 
         return res;
     }
+
+    public int LastStoneWeightII(int[] stones) {
+        int totalSum = stones.Sum();
+        int target = totalSum / 2;
+
+        // dp[i] будет максимальной суммой, которую можно достичь, используя вес, не превышающий i
+        bool[] dp = new bool[target + 1];
+        dp[0] = true;
+
+        // Идем по каждому камню и обновляем dp массив
+        foreach (int stone in stones) {
+            for (int i = target; i >= stone; i--) {
+                dp[i] = dp[i] || dp[i - stone];
+            }
+        }
+
+        // Найдем максимальную сумму, которая не превышает target
+        int closestSum = 0;
+        for (int i = target; i >= 0; i--) {
+            if (dp[i]) {
+                closestSum = i;
+                break;
+            }
+        }
+
+        // Минимальный возможный вес после всех операций — это разница между двумя группами
+        return totalSum - 2 * closestSum;
+    }
     static void Main()
     {
         int[] nums = {0, 0, 0, 0, 0}; 

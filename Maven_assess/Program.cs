@@ -73,46 +73,45 @@ class Program
                     sellOrders.Add(deal);
                 }
             } 
-        }
-        
+        }        
         
         longExposure = CalculateLongExposure(buyOrders);
         shortExposure = CalculateShortExposure(sellOrders);
         // profit, long exposure, short exposure
         return (profit, longExposure, shortExposure);
     }
-   public static int tryToBuy(List<Deal> sellOrders, Deal buyDeal) {
-    int profit = 0;
-    sellOrders.Sort((deal1, deal2) => deal1.price.CompareTo(deal2.price));
+    public static int tryToBuy(List<Deal> sellOrders, Deal buyDeal) {
+        int profit = 0;
+        sellOrders.Sort((deal1, deal2) => deal1.price.CompareTo(deal2.price));
 
-    for (int i = 0; i < sellOrders.Count && buyDeal.size > 0; ) {
-        Deal sellDeal = sellOrders[i];
-        
-        // Проверяем, если цена покупки больше или равна цене продажи
-        if (buyDeal.price >= sellDeal.price) {
-            int size = Math.Min(buyDeal.size, sellDeal.size);
-            profit += (buyDeal.price - sellDeal.price) * size; // Прибавляем прибыль, если сделка успешна
-            if (sellDeal.action == "SELL" && buyDeal.action == "BUY") {
-                profit -= (buyDeal.price - sellDeal.price) * size;
-            }
+        for (int i = 0; i < sellOrders.Count && buyDeal.size > 0; ) {
+            Deal sellDeal = sellOrders[i];
 
-            // Уменьшаем размер ордеров
-            buyDeal.size -= size;
-            sellDeal.size -= size;
+            // Проверяем, если цена покупки больше или равна цене продажи
+            if (buyDeal.price >= sellDeal.price) {
+                int size = Math.Min(buyDeal.size, sellDeal.size);
+                profit += (buyDeal.price - sellDeal.price) * size; // Прибавляем прибыль, если сделка успешна
+                if (sellDeal.action == "SELL" && buyDeal.action == "BUY") {
+                    profit -= (buyDeal.price - sellDeal.price) * size;
+                }
 
-            // Удаляем проданные ордера, если их размер стал равным нулю
-            if (sellDeal.size == 0) {
-                sellOrders.RemoveAt(i);
+                // Уменьшаем размер ордеров
+                buyDeal.size -= size;
+                sellDeal.size -= size;
+
+                // Удаляем проданные ордера, если их размер стал равным нулю
+                if (sellDeal.size == 0) {
+                    sellOrders.RemoveAt(i);
+                } else {
+                    i++;
+                }
             } else {
-                i++;
+                break; // Завершаем цикл, если больше нет подходящих предложений
             }
-        } else {
-            break; // Завершаем цикл, если больше нет подходящих предложений
         }
-    }
 
-    return profit;
-}
+        return profit;
+    }
 
     public static int tryToSell(List<Deal> buyOrders, Deal sellDeal) {
         int profit = 0;
