@@ -1,0 +1,66 @@
+Moving Machines
+There are n regions where some servers are hosted.
+The number of machines in the ith region is machineCount[i], where 0 ≤ i < n. It can get difficult to manage all the different regions, so the team decided to move some machines to exactly 3 regions, where the number of machines in the ith region is given by finalMachineCount[i], where 0 ≤ i<
+3.
+There are two operations that can be performed.
+﻿﻿Add or remove a machine from any existing region.
+The number of computers infihat server should be non-zero before and after the operation. This operation costs 1 unit.
+﻿﻿Move all machines from one region to another existing region at a cost of shiftinCost units.
+The now empty region is destroyed in this operation.
+Find the minimum cost to shift the machines so that any 3 regions have the counts required in finalMachineCount.
+Note: It is possible that there are additional machines left at the end apart from the ones placed in the final 3 regions.
+Example
+It is given that n= 4, machineCount = [2, 3, 5, 71,
+finalMachineCount = [5, 10, 5], and shifting Cost = 2.
+On increasing the number of machines in the 1st and 2nd regions by 1 and 2 machines respectively, the
+new machineCount = [3, 5, 5, 71. Total cost for these
+operations = 1 + 2 = 3. Now, moving all the machines from the 4th region to
+
+1st, which takes shifting Cost = 2, the new
+machineCount = [10, 5, 5]. The cost of this operation
+= 2
+
+Therefore, total cost = 3 + 2 = 5.
+
+
+Function Description
+
+Complete the function getMinimumCost in the
+editor below. getMinimumCost has the following parameters: int machineCount[n]: the initial number of machines in the regions int finalMachineCount[3]: the final number of machines required in the 3 regions int shiftingCost: the cost to move all machines from one region to another
+
+Returns
+
+int: the minimum cost to move machines into 3
+regions
+
+
+Sample Input For Custom Testing
+STDIN
+FUNCTION
+4
+→
+machineCount[] sizen = 4
+machineCount = [2, 4, 5,
+3]
+4
+5
+3
+= 3
+4
+4
+, 4]
+→
+finalMachineCountl] size
+→
+finalMachineCount = [4,
+5
+→
+shiftingCost = 5
+Sample Output
+2
+Explanation
+On increasing the number of machines of the 4th region by 1 and decreasing the number of machines of the 3rd region by 1, the new
+machineCount = [2, 4, 4, 4]. Total cost for these
+operations = 1 + 1 = 2.
+Use the 2nd, 3rd , and 4th regions as the required
+servers, leaving behind the st region.

@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/obj/Debug/net7.0/MachinesRegionsApp.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/obj/Debug/net7.0/MachinesRegionsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/obj/Debug/net7.0/MachinesRegionsApp.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/obj/Debug/net7.0/MachinesRegionsApp.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/obj/Debug/net7.0/MachinesRegionsApp.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/bin/Debug/net7.0/MachinesRegionsApp
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/bin/Debug/net7.0/MachinesRegionsApp.deps.json
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/bin/Debug/net7.0/MachinesRegionsApp.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/bin/Debug/net7.0/MachinesRegionsApp.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/bin/Debug/net7.0/MachinesRegionsApp.pdb
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/obj/Debug/net7.0/MachinesRegionsApp.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/obj/Debug/net7.0/refint/MachinesRegionsApp.dll
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/obj/Debug/net7.0/MachinesRegionsApp.pdb
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/obj/Debug/net7.0/MachinesRegionsApp.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Kate/Vanguard_OA/MachinesRegionsApp/obj/Debug/net7.0/ref/MachinesRegionsApp.dll

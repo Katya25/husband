@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/bin/Debug/net7.0/_8
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/bin/Debug/net7.0/_8.deps.json
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/bin/Debug/net7.0/_8.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/bin/Debug/net7.0/_8.dll
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/bin/Debug/net7.0/_8.pdb
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/obj/Debug/net7.0/_8.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/obj/Debug/net7.0/_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/obj/Debug/net7.0/_8.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/obj/Debug/net7.0/_8.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/obj/Debug/net7.0/_8.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/obj/Debug/net7.0/_8.dll
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/obj/Debug/net7.0/refint/_8.dll
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/obj/Debug/net7.0/_8.pdb
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/obj/Debug/net7.0/_8.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_8_Add_operators_to_find_sum/obj/Debug/net7.0/ref/_8.dll

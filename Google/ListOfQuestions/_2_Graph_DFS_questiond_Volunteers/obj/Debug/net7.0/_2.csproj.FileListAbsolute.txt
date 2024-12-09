@@ -1,0 +1,15 @@
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/obj/Debug/net7.0/_2.csproj.AssemblyReference.cache
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/obj/Debug/net7.0/_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/obj/Debug/net7.0/_2.AssemblyInfoInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/obj/Debug/net7.0/_2.AssemblyInfo.cs
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/obj/Debug/net7.0/_2.csproj.CoreCompileInputs.cache
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/bin/Debug/net7.0/_2
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/bin/Debug/net7.0/_2.deps.json
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/bin/Debug/net7.0/_2.runtimeconfig.json
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/bin/Debug/net7.0/_2.dll
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/bin/Debug/net7.0/_2.pdb
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/obj/Debug/net7.0/_2.dll
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/obj/Debug/net7.0/refint/_2.dll
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/obj/Debug/net7.0/_2.pdb
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/obj/Debug/net7.0/_2.genruntimeconfig.cache
+/Users/katyab/Documents/Programming Git/husband/Google/ListOfQuestions/_2/obj/Debug/net7.0/ref/_2.dll
